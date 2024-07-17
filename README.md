@@ -7,7 +7,7 @@ Analyzing Superstore sales data to optimize business strategies, understand cust
 ## About Data
 This project's data was obtained from the Kaggle. The data contains 21 columns and 5601 rows:
 
-![Screenshot 2024-07-17 053822](https://github.com/user-attachments/assets/27beffdd-3735-4f85-9b28-92c91f3400c7)
+![Screenshot 2024-07-17 053822](https://github.com/user-attachments/assets/62b5426c-1830-4258-bfee-02d537603da2)
 
 ## Approach Used
 
